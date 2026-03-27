@@ -11,9 +11,13 @@ Now, I am focused on building my career as a Data Analyst by working on real-wor
 **Technical Skills & Expertise**
 
 DATA  ANALYSIS  TOOLS : Excel | Power BI | SQL | Python | R
+
 DATABASE SYSTEM : PostgreSQL | Mysql
+
 PYTHON  LIBRARIES : Pandas | Numpy | Matplotlib | Seaborn 
+
 DATA  ANALYTICS  SKILLS : Data Cleaning | Data Preparation | Data Visualization | Analytics
+
 PROFESSIONAL SKILLS : Presentation | Data Storytelling | Communication | Business Insight
 
 **Contact Me** 
