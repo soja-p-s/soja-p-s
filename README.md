@@ -1,16 +1,26 @@
-## Hi there 👋
+**👋 Hi, I'm Soja P S**
 
-<!--
-**soja-p-s/soja-p-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Analyst**
 
-Here are some ideas to get you started:
+I am a BCA graduate with a diploma in Data Science and 1 year of experience as a Data Science tutor.
+During my teaching experience, I discovered my strong passion for Data Analysis and problem-solving using data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now, I am focused on building my career as a Data Analyst by working on real-world projects and improving my technical skills.
+
+
+**Technical Skills & Expertise**
+
+DATA  ANALYSIS  TOOLS : Excel | Power BI | SQL | Python | R
+DATABASE SYSTEM : PostgreSQL | Mysql
+PYTHON  LIBRARIES : Pandas | Numpy | Matplotlib | Seaborn 
+DATA  ANALYTICS  SKILLS : Data Cleaning | Data Preparation | Data Visualization | Analytics
+PROFESSIONAL SKILLS : Presentation | Data Storytelling | Communication | Business Insight
+
+**Contact Me** 
+Thank you for visiting my profile.
+Feel free to reach out for opportunities
+or collaborations. 
+
+Phn No : + 91 8921247408
+Email : sojasaji121@gmail.com 
+LinkedIn : www.linkedin.com/in/soja-saji
